@@ -1,0 +1,8 @@
+D:\Archivos\Visual Studio\POO\POO\bin\Debug\POO.exe.config
+D:\Archivos\Visual Studio\POO\POO\bin\Debug\POO.exe
+D:\Archivos\Visual Studio\POO\POO\bin\Debug\POO.pdb
+D:\Archivos\Visual Studio\POO\POO\obj\Debug\POO.csproj.AssemblyReference.cache
+D:\Archivos\Visual Studio\POO\POO\obj\Debug\POO.csproj.SuggestedBindingRedirects.cache
+D:\Archivos\Visual Studio\POO\POO\obj\Debug\POO.csproj.CoreCompileInputs.cache
+D:\Archivos\Visual Studio\POO\POO\obj\Debug\POO.exe
+D:\Archivos\Visual Studio\POO\POO\obj\Debug\POO.pdb
